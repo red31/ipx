@@ -9,5 +9,5 @@ xh = http://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt -- Emerging
 
 dnsbl = <br />
         https://pgl.yoyo.org/adservers/serverlist.php?mimetype=plaintext <br />
-        https://adaway.org/hosts.txt <br />
-        https://urlhaus.abuse.ch/downloads/hostfile <br />
+_ https://adaway.org/hosts.txt <br />
+_ https://urlhaus.abuse.ch/downloads/hostfile <br />
