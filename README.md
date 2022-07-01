@@ -8,4 +8,4 @@ xg = https://sslbl.abuse.ch/blacklist/ -- abuse.ch SSLBL Botnet C2 IP Blacklist 
 xh =  http://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt -- Emerging Threats fwip rules <br />
 dnsbl = https://pgl.yoyo.org/adservers/serverlist.php?mimetype=plaintext <br />
         https://adaway.org/hosts.txt <br />
-        hhttps://urlhaus.abuse.ch/downloads/hostfile <br />
+        https://urlhaus.abuse.ch/downloads/hostfile <br />
