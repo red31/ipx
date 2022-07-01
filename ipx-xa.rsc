@@ -2,7 +2,7 @@
 /system note set show-at-login=no
 add list=xa address="255.255.255.255"
 rem [find list="xa"]
-add list=xa address="1.161.219.86"
+add list=xa address="1.161.219.186"
 add list=xa address="1.171.103.192"
 add list=xa address="1.173.242.161"
 add list=xa address="1.246.222.134"
