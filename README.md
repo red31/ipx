@@ -7,7 +7,7 @@ xf = https://cinsscore.com/list/ci-badguys.txt <br />
 xg = https://sslbl.abuse.ch/blacklist/ -- abuse.ch SSLBL Botnet C2 IP Blacklist (IPs only) - Aggressive <br />
 xh = http://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt -- Emerging Threats fwip rules <br />
 
-dnsbl =
+dnsbl = <br />
  https://pgl.yoyo.org/adservers/serverlist.php?mimetype=plaintext <br />
  https://adaway.org/hosts.txt <br />
  https://urlhaus.abuse.ch/downloads/hostfile <br />
