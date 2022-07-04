@@ -1,12 +1,12 @@
 ## IPBL <br />
-> xa = https://reputation.alienvault.com <br />
+> xa = https://abuseipdb.com <br />
 > xb = https://www.binarydefense.com <br />
 > xc = http://lists.blocklist.de/lists/all.txt <br />
-> xd = https://abuseipdb.com <br />
+> xd = https://cinsscore.com/list/ci-badguys.txt <br />
 > xe = http://voipbl.org/update <br />
-> xf = https://cinsscore.com/list/ci-badguys.txt <br />
-> xg = https://sslbl.abuse.ch/blacklist/ -- abuse.ch SSLBL Botnet C2 IP Blacklist (IPs only) - Aggressive <br />
-> xh = http://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt -- Emerging Threats fwip rules <br />
+> xf = https://sslbl.abuse.ch/blacklist/ -- SSLBL Botnet C2 IP Blacklist (IPs only) - Aggressive <br />
+> xg = http://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt -- Emerging Threats fwip rules <br />
+> xh = https://reputation.alienvault.com -- Alienvault IP Reputation Database <br />
 <br />
 <br />
 
