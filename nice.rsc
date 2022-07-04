@@ -2,11 +2,11 @@
 # Script untuk menambahkan IP Address BGP yang terdaftar di Router NICE(OIXP)
 # ke RouterOS dalam ADDRESS-LIST dengan nama "nice"
 # Script created by: Valens Riyadi @ www.mikrotik.co.id
-# Generated at 4 July 2022 08:00:05 WIB ... 5845 lines
-# Generated in 3.389 seconds
+# Generated at 4 July 2022 09:00:05 WIB ... 5846 lines
+# Generated in 4.328 seconds
 # How-to: http://www.mikrotik.co.id/artikel_lihat.php?id=23
 
-/sys note set show-at-login=yes note="Using nice.rsc from www.mikrotik.co.id, 4 July 2022 08:00:05 WIB, 5845 lines."
+/sys note set show-at-login=yes note="Using nice.rsc from www.mikrotik.co.id, 4 July 2022 09:00:05 WIB, 5846 lines."
 
 /ip firewall address-list
 add list=nice address="1.2.3.4"
@@ -5239,6 +5239,7 @@ add list=nice address="112.215.253.0/24"
 add list=nice address="112.215.255.0/24"
 add list=nice address="113.196.242.0/24"
 add list=nice address="113.196.245.0/24"
+add list=nice address="113.197.65.0/24"
 add list=nice address="113.212.113.0/24"
 add list=nice address="113.212.115.0/24"
 add list=nice address="113.212.116.0/24"
@@ -5525,6 +5526,7 @@ add list=nice address="180.150.246.0/24"
 add list=nice address="180.214.234.0/24"
 add list=nice address="180.214.250.0/24"
 add list=nice address="180.232.8.0/24"
+add list=nice address="180.232.116.0/24"
 add list=nice address="180.240.57.0/24"
 add list=nice address="180.240.128.0/24"
 add list=nice address="180.240.142.0/24"
@@ -5756,7 +5758,6 @@ add list=nice address="202.154.182.0/24"
 add list=nice address="202.158.133.0/24"
 add list=nice address="202.158.134.0/24"
 add list=nice address="202.158.136.0/24"
-add list=nice address="202.158.139.0/24"
 add list=nice address="202.173.22.0/24"
 add list=nice address="202.180.0.0/24"
 add list=nice address="202.180.7.0/24"
