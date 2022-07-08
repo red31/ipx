@@ -8,7 +8,6 @@
 > xg = http://rules.emergingthreats.net/fwrules/emerging-Block-IPs.txt -- Emerging Threats fwip rules <br>
 > xh = https://reputation.alienvault.com -- Alienvault IP Reputation Database <br>
 <br>
-
 ## DNSBL <br>
 > https://pgl.yoyo.org/adservers/serverlist.php?mimetype=plaintext <br>
 > https://adaway.org/hosts.txt <br>
