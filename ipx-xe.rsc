@@ -2,3 +2,9 @@
 /system note set show-at-login=no
 add list=xe address="255.255.255.255"
 rem [find list="xe"]
+add list=xe address="185.228.19.218"
+add list=xe address="20.117.0.61"
+add list=xe address="20.199.126.251"
+add list=xe address="45.134.144.172"
+add list=xe address="51.195.65.109"
+add list=xe address="51.195.81.148"
