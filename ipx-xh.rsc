@@ -2,7 +2,6 @@
 /system note set show-at-login=no
 add list=xh address="255.255.255.255"
 rem [find list="xh"]
-add list=xh address="1.161.80.99"
 add list=xh address="101.0.54.130"
 add list=xh address="101.0.54.150"
 add list=xh address="101.178.223.39"
@@ -707,7 +706,6 @@ add list=xh address="78.106.220.129"
 add list=xh address="78.130.128.106"
 add list=xh address="78.39.117.17"
 add list=xh address="79.143.186.17"
-add list=xh address="79.52.204.9"
 add list=xh address="79.56.192.128"
 add list=xh address="79.98.107.90"
 add list=xh address="80.221.159.67"
