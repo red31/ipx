@@ -3,10 +3,10 @@
 > xb = https://www.binarydefense.com<br>
 > xc = http://lists.blocklist.de/lists/all.txt<br>
 > xd = https://cinsscore.com/list/ci-badguys.txt<br>
-> xe = http://voipbl.org/update<br>
+> xe = https://talosintelligence.com/documents/ip-blacklist<br>
 > xf = https://www.threatcrowd.org/feeds/ips.txt<br>
 > xg = http://www.darklist.de/raw.php -- blacklisted raw IPs<br>
-> xh = https://talosintelligence.com/documents/ip-blacklist<br>
+> xh = http://voipbl.org/update<br>
 > xi = https://pgl.yoyo.org/adservers/iplist.php?ipformat=plain&showintro=0&mimetype=plaintext<br>
 <br>
 ## DNSBL<br>
