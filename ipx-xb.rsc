@@ -1,4 +1,5 @@
 /ip firewall address-list
+/system note set show-at-login=no
 add list=xb address="255.255.255.255"
 rem [find list="xb"]
 add list=xb address="1.116.146.33"
