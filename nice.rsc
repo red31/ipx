@@ -2,11 +2,11 @@
 # Script untuk menambahkan IP Address BGP yang terdaftar di Router NICE(OIXP)
 # ke RouterOS dalam ADDRESS-LIST dengan nama "nice"
 # Script created by: Valens Riyadi @ www.mikrotik.co.id
-# Generated at 1 November 2022 08:00:08 WIB ... 7912 lines
-# Generated in 6.521 seconds
+# Generated at 1 November 2022 09:00:08 WIB ... 7915 lines
+# Generated in 6.453 seconds
 # How-to: http://www.mikrotik.co.id/artikel_lihat.php?id=23
 
-/sys note set show-at-login=no note="Using nice.rsc from www.mikrotik.co.id, 1 November 2022 08:00:08 WIB, 7912 lines."
+/sys note set show-at-login=no note="Using nice.rsc from www.mikrotik.co.id, 1 November 2022 09:00:08 WIB, 7915 lines."
 
 /ip firewall address-list
 add list=nice address="1.2.3.4"
@@ -4270,7 +4270,6 @@ add list=nice address="103.167.218.0/23"
 add list=nice address="103.167.220.0/23"
 add list=nice address="103.167.236.0/23"
 add list=nice address="103.168.26.0/23"
-add list=nice address="103.168.28.0/23"
 add list=nice address="103.168.46.0/23"
 add list=nice address="103.168.106.0/23"
 add list=nice address="103.168.136.0/23"
@@ -5894,6 +5893,7 @@ add list=nice address="103.75.170.0/24"
 add list=nice address="103.75.173.0/24"
 add list=nice address="103.75.174.0/24"
 add list=nice address="103.75.210.0/24"
+add list=nice address="103.75.237.0/24"
 add list=nice address="103.76.50.0/24"
 add list=nice address="103.76.129.0/24"
 add list=nice address="103.76.204.0/24"
@@ -6351,6 +6351,7 @@ add list=nice address="103.167.217.0/24"
 add list=nice address="103.167.222.0/24"
 add list=nice address="103.168.21.0/24"
 add list=nice address="103.168.25.0/24"
+add list=nice address="103.168.29.0/24"
 add list=nice address="103.168.44.0/24"
 add list=nice address="103.168.153.0/24"
 add list=nice address="103.168.163.0/24"
@@ -7323,6 +7324,7 @@ add list=nice address="185.249.220.0/24"
 add list=nice address="185.255.8.0/24"
 add list=nice address="185.255.10.0/24"
 add list=nice address="185.255.54.0/24"
+add list=nice address="187.33.246.0/24"
 add list=nice address="188.72.88.0/24"
 add list=nice address="188.72.91.0/24"
 add list=nice address="188.92.121.0/24"
@@ -7906,6 +7908,7 @@ add list=nice address="216.147.250.0/24"
 add list=nice address="216.162.118.0/24"
 add list=nice address="216.162.127.0/24"
 add list=nice address="216.230.99.0/24"
+add list=nice address="216.231.223.0/24"
 add list=nice address="216.234.224.0/24"
 add list=nice address="216.244.94.0/24"
 add list=nice address="216.251.208.0/24"
