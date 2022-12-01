@@ -4,7 +4,6 @@ add list=xe address="255.255.255.255"
 rem [find list="xe"]
 add list=xe address="101.0.54.130"
 add list=xe address="101.0.54.150"
-add list=xe address="101.178.223.39"
 add list=xe address="101.98.11.146"
 add list=xe address="103.214.54.82"
 add list=xe address="103.22.183.131"
