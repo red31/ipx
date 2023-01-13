@@ -2,6 +2,7 @@
 /system note set show-at-login=no
 add list=xi address="255.255.255.255"
 rem [find list="xi"]
+add list=xi address="10.0.0.1"
 add list=xi address="103.245.223.131"
 add list=xi address="103.245.223.194"
 add list=xi address="103.31.6.184"
@@ -302,6 +303,7 @@ add list=xi address="125.76.224.240"
 add list=xi address="125.76.224.250"
 add list=xi address="125.76.247.240"
 add list=xi address="125.76.247.250"
+add list=xi address="127.0.0.1"
 add list=xi address="128.11.42.61"
 add list=xi address="128.121.236.169"
 add list=xi address="128.140.168.154"
