@@ -2,11 +2,11 @@
 # Script untuk menambahkan IP Address BGP yang terdaftar di Router NICE(OIXP)
 # ke RouterOS dalam ADDRESS-LIST dengan nama "nice"
 # Script created by: Valens Riyadi @ www.mikrotik.co.id
-# Generated at 23 January 2023 08:00:09 WIB ... 8583 lines
-# Generated in 7.423 seconds
+# Generated at 23 January 2023 09:00:09 WIB ... 8582 lines
+# Generated in 7.463 seconds
 # How-to: http://www.mikrotik.co.id/artikel_lihat.php?id=23
 
-/sys note set show-at-login=no note="Using nice.rsc from www.mikrotik.co.id, 23 January 2023 08:00:09 WIB, 8583 lines."
+/sys note set show-at-login=no note="Using nice.rsc from www.mikrotik.co.id, 23 January 2023 09:00:09 WIB, 8582 lines."
 
 /ip firewall address-list
 add list=nice address="1.2.3.4"
@@ -6711,7 +6711,6 @@ add list=nice address="103.144.45.0/24"
 add list=nice address="103.144.47.0/24"
 add list=nice address="103.144.81.0/24"
 add list=nice address="103.144.82.0/24"
-add list=nice address="103.144.132.0/24"
 add list=nice address="103.144.143.0/24"
 add list=nice address="103.144.194.0/24"
 add list=nice address="103.144.227.0/24"
